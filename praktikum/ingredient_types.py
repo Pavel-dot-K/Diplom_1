@@ -1,3 +1,5 @@
+from typing import List
+
 """
 Перечисление с типами ингредиентов.
 SAUCE – соус
